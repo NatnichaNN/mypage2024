@@ -30,11 +30,11 @@ table {
     background-color:aliceblue;
     text-align: center;
   }
-  table{
-    justify-content: center;
-    display: inline-flex;
-  }
   ul{
+    display: grid;
+    justify-content: center;
+  }
+  .createtable{
     display: grid;
     justify-content: center;
   }
