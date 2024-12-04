@@ -26,3 +26,15 @@ table {
   td:last-of-type {
     text-align: center;
   }
+  body{
+    background-color:aliceblue;
+    text-align: center;
+  }
+  table{
+    justify-content: center;
+    display: inline-flex;
+  }
+  ul{
+    display: grid;
+    justify-content: center;
+  }
